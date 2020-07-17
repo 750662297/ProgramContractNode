@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "123456",
+    "database": "program_contract",
+    "host": "121.199.34.76",
+    "dialect": "mysql"
+
+  },
+  "test": {
+    "username": "root",
+    "password": "123456",
+    "database": "program_contract",
+    "host": "121.199.34.76",
+    "dialect": "mysql"
+
+  },
+  "production": {
+    "username": "root",
+    "password": "123456",
+    "database": "program_contract",
+    "host": "121.199.34.76",
+    "dialect": "mysql"
+
+  }
+}
